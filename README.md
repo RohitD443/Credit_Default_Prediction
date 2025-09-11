@@ -1,33 +1,22 @@
-💳 Credit Default Prediction
+📊 Credit Default Prediction (Classification)
+
 📌 Overview
+This project predicts credit default risk using various machine learning models on credit scoring data.
+It demonstrates data preprocessing, feature engineering, and classification modeling techniques commonly used in financial risk analytics.
 
-This project predicts credit default risk using machine learning models on financial and demographic data.
-It demonstrates data preprocessing, feature engineering, model building, and evaluation, making it a practical end-to-end ML project for financial risk analytics.
+The system helps financial institutions identify whether a borrower is likely to default on a loan, improving decision-making and reducing financial risk.
 
-The system applies multiple classification algorithms and compares their performance, helping banks and financial institutions assess the probability of a borrower defaulting on a loan.
+🎯 Project Details
 
-🎯 Objectives
+- Problem Type: Classification
 
-Clean and preprocess real-world credit scoring data
+- Target Variable: Credit Default
+    -  0 = No Default
+    -  1 = Default
 
-Handle missing values (median/mode imputation & column drop)
+Goal: Predict whether a person will default on their loan
 
-Encode categorical features and scale numerical features
-
-Train classification models to predict credit default
-
-Evaluate models with Accuracy, Precision, Recall, F1 Score, and Confusion Matrix
-
-⚙️ Tech Stack
-
-Language: Python 🐍
-
-Libraries: Pandas, NumPy, Scikit-learn
-
-Algorithms Implemented:
-
-Logistic Regression (Baseline)
-
-Decision Tree Classifier 🌳
-
-Random Forest Classifier 🌲
+⚙️ Techniques & Algorithms
+- Logistic Regression (Baseline)
+- 🌳 Decision Tree Classifier
+- 🌲 Random Forest Classifier
