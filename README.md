@@ -88,13 +88,14 @@ Random Forest	~XX%	~XX%	~XX%	~XX%
 🔥 Correlation Heatmap
 
 Shows the relationship between numerical features to understand dependencies.
+<img width="703" height="458" alt="Model Performance Comparision" src="https://github.com/user-attachments/assets/677e3782-b934-4c58-92dc-1760afccb699" />
 
 ✅ Confusion Matrix (per Model)
 
 Visualizes correct vs. incorrect predictions.
 
 Logistic Regression	Decision Tree	Random Forest
-
+	
 	
 	
 📉 ROC–AUC Curve
@@ -115,13 +116,6 @@ scikit-learn ⚙️
 
 Jupyter Notebook / Google Colab 💻
 
-🚀 Future Scope
-
-🔹 Integrate advanced models like XGBoost or LightGBM.
-
-🔹 Test on larger, real-world banking datasets.
-
-🔹 Deploy as a web app or API for real-time credit scoring.
 
 ✅ Conclusion
 
