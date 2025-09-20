@@ -87,18 +87,17 @@ Random Forest	~XX%	~XX%	~XX%	~XX%
 📊 Visual Insights
 🔥 Correlation Heatmap
 
-Shows the relationship between numerical features to understand dependencies.
-<img width="703" height="458" alt="Model Performance Comparision" src="https://github.com/user-attachments/assets/677e3782-b934-4c58-92dc-1760afccb699" />
+<img width="995" height="744" alt="Corelation Heat Map" src="https://github.com/user-attachments/assets/ab2f83a0-0947-471b-a64b-892379ac9867" />
 
 ✅ Confusion Matrix (per Model)
 
-Visualizes correct vs. incorrect predictions.
+Logistic Regression ||	Decision Tree || Random Forest
 
-Logistic Regression	Decision Tree	Random Forest
-	
-	
+<img width="703" height="458" alt="Model Performance Comparision" src="https://github.com/user-attachments/assets/677e3782-b934-4c58-92dc-1760afccb699" />
 	
 📉 ROC–AUC Curve
+
+<img width="548" height="482" alt="ROC Curve" src="https://github.com/user-attachments/assets/9f0d0778-39c2-4265-9340-ff1d370c8fac" />
 
 Compares model performance across classification thresholds.
 
